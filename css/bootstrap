@@ -5909,4 +5909,3 @@ float: left;
 }
 .consultoria p{margin-top: 12.5em;display: block;text-align: justify;}
 .googleMaps{margin-bottom: 2em;}
-.buttonWidth100{width: 100%}
